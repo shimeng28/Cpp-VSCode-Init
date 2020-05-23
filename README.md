@@ -1,4 +1,4 @@
-cpp configuration on Vscode 
+cpp vscode configuration on Mac
 
 include ---- header files
 
