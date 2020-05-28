@@ -2,7 +2,7 @@ step 1: install xcode
 
 step 2: open project
 
-step 3: focus src/main.cpp file
+step 3: focus on src/main.cpp file
 
 step 4: click debug btn
 
